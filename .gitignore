@@ -9,6 +9,7 @@ __pycache__/
 # ignore local folder
 local/
 .idea/
+data/
 
 # Distribution / packaging
 .Python
