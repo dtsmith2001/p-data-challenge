@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore local folder
+local/
+.idea/
+
 # Distribution / packaging
 .Python
 env/
